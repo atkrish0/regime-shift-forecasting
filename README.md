@@ -45,3 +45,9 @@ Involves 129 macroeconomic monthly time series data from 1959 to 2018.
 
 ### Evaluation Metric: 
 * ROC AUC Score
+
+### Notes:
+
+If markets experience volatility or go through rapid transitions of regimes, carry and relative value trades can suffer large drawdowns. 
+Low-volatility regimes can make investors complacent, as the carry or mispricing in a trade may increasingly look large in comparison.
+Thus it is crucial to look for signs of regime shifts and avoid crowded carry or relative value trades.
